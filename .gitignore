@@ -1,0 +1,9 @@
+*.cmd
+*o
+fltest
+fltest_amr
+
+src/modules.order
+src/Module.symvers
+src/fl2000.mod.c
+src/fl2000.mod
